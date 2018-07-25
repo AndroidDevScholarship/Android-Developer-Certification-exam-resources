@@ -30,6 +30,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
     2.6 Implement a custom app theme
     2.7 Display items in a RecyclerView
     2.8 Bind local data to a RecyclerView list using the paging library
+        - A good article to learn to use the paging library ((ProAndroidDev)[https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe])
     2.9 Implement menu-based or drawer navigation
     2.10 Localize the app
     2.11 Display notifications, toasts, and snackbar messages
