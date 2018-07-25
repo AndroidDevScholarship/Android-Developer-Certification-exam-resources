@@ -3,15 +3,22 @@ Repository to share resources which we need to study
 
 Certification site: https://developers.google.com/training/certification/associate-android-developer/
 
+---
 # Content
 
 How to collaborate? Just add under every line a resource you want to share i.e.:
 
 * #### 1 Important thing to study
   * My resource with a little explanation and web page
+---
 
-
-
+#### General resources
+  * __Android Developer Fundamentals__
+     * Concept reference: [Android Developer Fundamentals Course—Concepts](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)
+     * Practical workbook: [Android Developer Fundamentals Course—Practicals](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
+  * __Advanced Android Development__
+     * Concept reference: [Advanced Android Development—Concepts](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
+     * Practical workbook: [Advanced Android Development—Practicals](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
 
 
 ## 1) Testing and debugging
