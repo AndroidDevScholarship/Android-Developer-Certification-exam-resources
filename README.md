@@ -55,6 +55,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
 ## 3) App data and files
 
   * #### 3.1- Define data using Room entities
+      * Android Persistence with Room Database [sample](https://github.com/googlecodelabs/android-persistence)
   * #### 3.2- Access Room database with data access object (DAO)
   * #### 3.3- Observe and respond to changing data using LiveData
   * #### 3.4- Use a Repository to handle data operations
