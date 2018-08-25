@@ -28,6 +28,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Test your Room database from [Android docs](https://developer.android.com/training/data-storage/room/testing-db)
       * Good article about Unit testing from [ProAndroidDev](https://proandroiddev.com/seven-principles-of-great-unit-tests-adapted-for-android-342515f98ef2)
   * #### 1.2- Write and execute Android UI tests
+      * Testing Android patterns from [AndroidDevelopers](https://www.youtube.com/watch?v=W8LJjfkTKik&index=1&list=PLWz5rJ2EKKc-6HWg_jyP0U1zrVLHn65b2)
   * #### 1.3- Use the system log to output debug information
   * #### 1.4- Debug and fix issues with an app's functional behavior and usability
       * Debugging tips from [Black Lens](https://blacklenspub.com/5-debugging-tips-with-android-studio-65751011262f)
