@@ -38,6 +38,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
 
   * #### 2.1- Create an Activity that displays a layout
   * #### 2.2- Construct a UI with ConstraintLayout
+      * Build a Responsive UI with ConstraintLayout from [Android docs](https://developer.android.com/training/constraint-layout/)
+      * Animation example with ConstraintLayout from [AndroidPub](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
   * #### 2.3- Create a custom view class and add it to a layout
       * A good example to customice an EditText from [Google developer training github](https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1a-p-using-custom-views/10-1a-p-using-custom-views.html)
   * #### 2.4- Add accessibility hooks to a custom view
