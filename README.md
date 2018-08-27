@@ -43,6 +43,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
   * #### 2.3- Create a custom view class and add it to a layout
       * A good example to customice an EditText from [Google developer training github](https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1a-p-using-custom-views/10-1a-p-using-custom-views.html)
   * #### 2.4- Add accessibility hooks to a custom view
+      * Build more accessible custom views from [Android docs](https://developer.android.com/guide/topics/ui/accessibility/custom-views)
   * #### 2.5- Apply content descriptions to views for accessibility
   * #### 2.6- Implement a custom app theme
   * #### 2.7- Display items in a RecyclerView
