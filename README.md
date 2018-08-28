@@ -46,6 +46,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Build more accessible custom views from [Android docs](https://developer.android.com/guide/topics/ui/accessibility/custom-views)
   * #### 2.5- Apply content descriptions to views for accessibility
   * #### 2.6- Implement a custom app theme
+      * The Styles and Themes guide from [Android docs](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
+      * Guide to develop custom themes from [codepath](https://guides.codepath.com/android/developing-custom-themes)
   * #### 2.7- Display items in a RecyclerView
   * #### 2.8- Bind local data to a RecyclerView list using the paging library
       * A good article to learn to use the paging library at [ProAndroidDev](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
