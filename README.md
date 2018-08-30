@@ -65,6 +65,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Android Persistence with Room Database [sample](https://github.com/googlecodelabs/android-persistence)
   * #### 3.2- Access Room database with data access object (DAO)
   * #### 3.3- Observe and respond to changing data using LiveData
+      * LiveData overview from [Android docs](https://developer.android.com/topic/libraries/architecture/livedata)
+      * Good article to learn LiveData at [jensklingenberg](http://jensklingenberg.de/learn-how-to-use-livedata/)
   * #### 3.4- Use a Repository to handle data operations
   * #### 3.5- Read and parse raw resources or asset files
   * #### 3.6- Create persistent preference data from user input
