@@ -68,6 +68,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * LiveData overview from [Android docs](https://developer.android.com/topic/libraries/architecture/livedata)
       * Good article to learn LiveData at [jensklingenberg](http://jensklingenberg.de/learn-how-to-use-livedata/)
   * #### 3.4- Use a Repository to handle data operations
+      * Guide to understand better AAC from [Android docs](https://developer.android.com/jetpack/docs/guide#connect-viewmodel-repository)
+      * Awesome video tutorial to learn Room, ViewModel, LiveData, Dagger 2 and MVVM Architecture from [wiseAss](https://www.youtube.com/watch?reload=9&v=LCOKWgHdBvE)
   * #### 3.5- Read and parse raw resources or asset files
   * #### 3.6- Create persistent preference data from user input
   * #### 3.7- Change the behavior of the app based on user preferences
