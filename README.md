@@ -8,7 +8,7 @@ Certification site: https://developers.google.com/training/certification/associa
 
 How to collaborate? Just add under every line a resource you want to share i.e.:
 
-* #### 1 Important thing to study
+* #### 1 An important thing to study
   * My resource with a little explanation and web page
 ---
 
@@ -41,7 +41,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Build a Responsive UI with ConstraintLayout from [Android docs](https://developer.android.com/training/constraint-layout/)
       * Animation example with ConstraintLayout from [AndroidPub](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
   * #### 2.3- Create a custom view class and add it to a layout
-      * A good example to customice an EditText from [Google developer training github](https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1a-p-using-custom-views/10-1a-p-using-custom-views.html)
+      * A good example to customize an EditText from [Google developer training GitHub](https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1a-p-using-custom-views/10-1a-p-using-custom-views.html)
   * #### 2.4- Add accessibility hooks to a custom view
       * Build more accessible custom views from [Android docs](https://developer.android.com/guide/topics/ui/accessibility/custom-views)
   * #### 2.5- Apply content descriptions to views for accessibility
@@ -69,6 +69,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
   * #### 3.3- Observe and respond to changing data using LiveData
       * LiveData overview from [Android docs](https://developer.android.com/topic/libraries/architecture/livedata)
       * Good article to learn LiveData at [jensklingenberg](http://jensklingenberg.de/learn-how-to-use-livedata/)
+      * Well explained article to differentiate patterns and antipatterns using LiveData and ViewModel at [Android Developers](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
+      * Great article to point out AAC pitfalls at [Medium](https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808)
   * #### 3.4- Use a Repository to handle data operations
       * Guide to understand better AAC from [Android docs](https://developer.android.com/jetpack/docs/guide#connect-viewmodel-repository)
       * Awesome video tutorial to learn Room, ViewModel, LiveData, Dagger 2 and MVVM Architecture from [wiseAss](https://www.youtube.com/watch?reload=9&v=LCOKWgHdBvE)
