@@ -59,6 +59,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Localization from [Android docs](https://developer.android.com/guide/topics/resources/localization)
   * #### 2.11- Display notifications, toasts, and snackbar messages
   * #### 2.12- Schedule a background task using JobScheduler
+      * Schedule jobs intelligently from [Android docs](https://developer.android.com/topic/performance/scheduling)
+      * Good article to Schedule tasks from [Vogella](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html)
   * #### 2.13- Efficiently run jobs in the background
  
  
