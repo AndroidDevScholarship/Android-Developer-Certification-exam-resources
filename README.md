@@ -62,6 +62,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Schedule jobs intelligently from [Android docs](https://developer.android.com/topic/performance/scheduling)
       * Good article to Schedule tasks from [Vogella](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html)
   * #### 2.13- Efficiently run jobs in the background
+      * Guide to background processing from [Android docs](https://developer.android.com/guide/background/)
  
  
 ## 3) App data and files
@@ -78,6 +79,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Guide to understand better AAC from [Android docs](https://developer.android.com/jetpack/docs/guide#connect-viewmodel-repository)
       * Awesome video tutorial to learn Room, ViewModel, LiveData, Dagger 2 and MVVM Architecture from [wiseAss](https://www.youtube.com/watch?reload=9&v=LCOKWgHdBvE)
   * #### 3.5- Read and parse raw resources or asset files
+      * How to add Assets, Files, and Data Parsing from [CommonsWare](https://commonsware.com/Android/previews/assets-files-and-data-parsing)
   * #### 3.6- Create persistent preference data from user input
   * #### 3.7- Change the behavior of the app based on user preferences
 
