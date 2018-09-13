@@ -83,5 +83,4 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
   * #### 3.6- Create persistent preference data from user input
       * How to save key-value data from [Android docs](https://developer.android.com/training/data-storage/shared-preferences)
   * #### 3.7- Change the behavior of the app based on user preferences
-
-
+      * How to add settings from [Android docs](https://developer.android.com/guide/topics/ui/settings)
