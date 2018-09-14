@@ -19,7 +19,10 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
   * __Advanced Android Development__
      * Concept reference: [Advanced Android Development—Concepts](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
      * Practical workbook: [Advanced Android Development—Practicals](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
-
+  * __More exam resources__
+     * An useful repository with more resources for the exam by [Amejia481](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+     * Quick and a little bit outdated guide to implement Material Design elements from [MaterialDoc](https://materialdoc.com/)
+     * Old but useful guide to see how the exam is from [Medium](https://medium.com/@suyoggunjal/google-certified-android-developer-59af40bae846)
 
 ## 1) Testing and debugging
 
