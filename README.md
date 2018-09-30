@@ -83,6 +83,8 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
       * Awesome video tutorial to learn Room, ViewModel, LiveData, Dagger 2 and MVVM Architecture from [wiseAss](https://www.youtube.com/watch?reload=9&v=LCOKWgHdBvE)
   * #### 3.5- Read and parse raw resources or asset files
       * How to add Assets, Files, and Data Parsing from [CommonsWare](https://commonsware.com/Android/previews/assets-files-and-data-parsing)
+      * Tutorial which explains how to use Assets from [MobileDevHub](http://mobiledevhub.com/2017/10/25/android-fundamentals-what-are-assets-and-how-to-use-them/)
+      * GitHub repo which shows how to use Assets from [GitHub](https://github.com/tuttelikz/ReadCsvExample_Android)
   * #### 3.6- Create persistent preference data from user input
       * How to save key-value data from [Android docs](https://developer.android.com/training/data-storage/shared-preferences)
   * #### 3.7- Change the behavior of the app based on user preferences
