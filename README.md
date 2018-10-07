@@ -27,6 +27,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
 ## 1) Testing and debugging
 
   * #### 1.1- Write and execute local JVM unit tests
+      * Fundamentals of testing [Android Developer Docs](https://developer.android.com/training/testing/)
       * Unit testing from [Android docs](https://developer.android.com/training/testing/unit-testing/)
       * Test your Room database from [Android docs](https://developer.android.com/training/data-storage/room/testing-db)
       * Good article about Unit testing from [ProAndroidDev](https://proandroiddev.com/seven-principles-of-great-unit-tests-adapted-for-android-342515f98ef2)
