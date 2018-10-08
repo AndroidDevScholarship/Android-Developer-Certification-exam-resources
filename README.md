@@ -55,6 +55,7 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
   * #### 2.7- Display items in a RecyclerView
   * #### 2.8- Bind local data to a RecyclerView list using the paging library
       * A good article to learn to use the paging library at [ProAndroidDev](https://proandroiddev.com/8-steps-to-implement-paging-library-in-android-d02500f7fffe)
+      * Another article to use paging library at[Mindorks](https://medium.com/mindorks/android-recyclerview-pagination-with-paging-library-using-mvvm-rxjava-dagger-2-and-livedata-b0489ecbbfc0)
       * An easy article to understand to learn to use the paging library using Room from [Knowledge Transfer](http://androidkt.com/paging-library/)
   * #### 2.9- Implement menu-based or drawer navigation
       * Create a navigation drawer from [Android docs](https://developer.android.com/training/implementing-navigation/nav-drawer)
