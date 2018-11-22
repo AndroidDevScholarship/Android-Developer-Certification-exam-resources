@@ -13,6 +13,10 @@ How to collaborate? Just add under every line a resource you want to share i.e.:
 ---
 
 #### General resources
+##### New
+Some resources for the updated certification are listed at [Android Developent Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
+
+##### Old
   * __Android Developer Fundamentals__
      * Concept reference: [Android Developer Fundamentals Course—Concepts](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)
      * Practical workbook: [Android Developer Fundamentals Course—Practicals](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
