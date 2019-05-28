@@ -18,11 +18,11 @@ Some resources for the updated certification are listed at [Android Developent F
 
 ##### Old
   * __Android Developer Fundamentals__
-     * Concept reference: [Android Developer Fundamentals Course—Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
-     * Practical workbook: [Android Developer Fundamentals Course—Practicals _Codelabs_](https://developer.android.com/courses/fundamentals-training/toc-v2)
+     * Concept reference: [Android Developer Fundamentals Course—Concepts](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)	     
+     * Practical workbook: [Android Developer Fundamentals Course—Practicals](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
   * __Advanced Android Development__
-     * Concept reference: [Advanced Android Development—Concepts](https://google-developer-training.github.io/android-developer-advanced-course-concepts/index-book.html)
-     * Practical workbook: [Advanced Android Development—Practicals _Codelabs_](https://codelabs.developers.google.com/advanced-android-training/)
+     * Concept reference: [Advanced Android Development—Concepts](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details)
+     * Practical workbook: [Advanced Android Development—Practicals](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
   * __More exam resources__
      * An useful repository with more resources for the exam by [Amejia481](https://github.com/Amejia481/Associate-Android-Developer-Certification)
      * Quick and a little bit outdated guide to implement Material Design elements from [MaterialDoc](https://materialdoc.com/)
